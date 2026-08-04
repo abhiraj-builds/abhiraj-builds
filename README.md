@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhiraj-builds/abhiraj-builds/main/banner.png" alt="Abhiraj Kumar Banner" width="100%" />
+</p>
+
 # Hi 👋, I'm Abhiraj Kumar
 
 ## 🚀 About Me
@@ -27,6 +31,8 @@ I'm a 3rd Year B.Tech IT student passionate about software development and probl
 ![](https://github-readme-stats.shion.dev/api?username=abhiraj-builds&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=abhiraj-builds&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=abhiraj-builds&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhiraj-builds&theme=github-dark)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhiraj-builds&theme=radical&no-frame=false&no-bg=true&margin-w=4)
